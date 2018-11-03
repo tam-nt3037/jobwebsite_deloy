@@ -1,0 +1,1066 @@
+{
+  "HANOI": {
+    "name": "Ha Noi",
+    "cities": {
+      "QUANBADINH": "Quan Ba Dinh",
+      "QUANHOANKIEM": "Quan Hoan Kiem",
+      "QUANHAIBATRUNG": "Quan Hai Ba Trung",
+      "QUANDONGDA": "Quan Dong Da",
+      "QUANTAYHO": "Quan Tay Ho",
+      "QUANCAUGIAY": "Quan Cau Giay",
+      "QUANTHANHXUAN": "Quan Thanh Xuan",
+      "QUANHOANGMAI": "Quan Hoang Mai",
+      "QUANLONGBIEN": "Quan Long Bien",
+      "HUYENTULIEM": "Huyen Tu Liem",
+      "HUYENTHANHTRI": "Huyen Thanh Tri",
+      "HUYENGIALAM": "Huyen Gia Lam",
+      "HUYENDONGANH": "Huyen Dong Anh",
+      "HUYENSOCSON": "Huyen Soc Son",
+      "QUANHADONG": "Quan Ha Dong",
+      "THIXASONTAY": "Thi xa Son Tay",
+      "HUYENBAVI": "Huyen Ba Vi",
+      "HUYENPHUCTHO": "Huyen Phuc Tho",
+      "HUYENTHACHTHAT": "Huyen Thach That",
+      "HUYENQUOCOAI": "Huyen Quoc Oai",
+      "HUYENCHUONGMY": "Huyen Chuong My",
+      "HUYENDANPHUONG": "Huyen Dan Phuong",
+      "HUYENHOAIDUC": "Huyen Hoai Duc",
+      "HUYENTHANHOAI": "Huyen Thanh Oai",
+      "HUYENMYDUC": "Huyen My Duc",
+      "HUYENUNGHOA": "Huyen Ung Hoa",
+      "HUYENTHUONGTIN": "Huyen Thuong Tin",
+      "HUYENPHUXUYEN": "Huyen Phu Xuyen",
+      "HUYENMELINH": "Huyen Me Linh",
+      "HANOIKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "HOCHIMINH": {
+    "name": "THANH PHO HO CHI MINH",
+    "cities": {
+      "QUAN1": "Quan 1",
+      "QUAN2": "Quan 2",
+      "QUAN3": "Quan 3",
+      "QUAN4": "Quan 4",
+      "QUAN5": "Quan 5",
+      "QUAN6": "Quan 6",
+      "QUAN7": "Quan 7",
+      "QUAN8": "Quan 8",
+      "QUAN9": "Quan 9",
+      "QUAN10": "Quan 10",
+      "QUAN11": "Quan 11",
+      "QUAN12": "Quan 12",
+      "QUANGOVAP": "Quan Go Vap",
+      "QUANTANBINH": "Quan Tan Binh",
+      "QUANTANPHU": "Quan Tan Phu",
+      "QUANBINHTHANH": "Quan Binh Thanh",
+      "QUANPHUNHUAN": "Quan Phu Nhuan",
+      "QUANTHUDUC": "Quan Thu Duc",
+      "QUANBINHTAN": "Quan Binh Tan",
+      "HUYENBINHCHANH": "Huyen Binh Chanh",
+      "HUYENCUCHI": "Huyen Cu Chi",
+      "HUYENHOCMON": "Huyen Hoc Mon",
+      "HUYENNHABE": "Huyen Nha Be",
+      "HUYENCANGIO": "Huyen Can Gio",
+      "HOCHIMINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "HAIPHONG": {
+    "name": "Thanh pho Hai Phong",
+    "cities": {
+      "QUANHONGBANG": "Quan Hong Bang",
+      "QUANLECHAN": "Quan Le Chan",
+      "QUANNGOQUYEN": "Quan Ngo Quyen",
+      "QUANKIENAN": "Quan Kien An",
+      "QUANHAIAN": "Quan Hai An",
+      "QUANDOSON": "Quan Do Son",
+      "HUYENANLAO": "Huyen An Lao",
+      "HUYENKIENTHUY": "Huyen Kien Thuy",
+      "HUYENTHUYNGUYEN": "Huyen Thuy Nguyen",
+      "HUYENANDUONG": "Huyen An Duong",
+      "HUYENTIENLANG": "Huyen Tien Lang",
+      "HUYENVINHBAO": "Huyen Vinh Bao",
+      "HUYENCATHAI": "Huyen Cat Hai",
+      "HUYENBACHLONGVI": "Huyen Bach Long Vi",
+      "QUANDUONGKINH": "Quan Duong Kinh",
+      "HAIPHONGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "DANANG": {
+    "name": "Thanh Pho Da Nang",
+    "cities": {
+      "QUANHAICHAU": "Quan Hai Chau",
+      "QUANTHANHKHE": "Quan Thanh Khe",
+      "QUANSONTRA": "Quan Son Tra",
+      "QUANNGUHANHSON": "Quan Ngu Hanh Son",
+      "QUANLIENCHIEU": "Quan Lien Chieu",
+      "HUYENHOAVANG": "Huyen Hoa Vang",
+      "QUANCAMLE": "Quan Cam Le",
+      "DANANGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "HAGIANG": {
+    "name": "Tinh Ha Giang",
+    "cities": {
+      "THANHPHOHAGIANG": "Thanh pho Ha Giang",
+      "HUYENDONGVAN": "Huyen Dong Van",
+      "HUYENMEOVAC": "Huyen Meo Vac",
+      "HUYENYENMINH": "Huyen Yen Minh",
+      "HUYENQUANBA": "Huyen Quan Ba",
+      "HUYENVIXUYEN": "Huyen Vi Xuyen",
+      "HUYENBACME": "Huyen Bac Me",
+      "HUYENHOANGSUPHI": "Huyen Hoang Su Phi",
+      "HUYENXINMAN": "Huyen Xin Man",
+      "HUYENBACQUANG": "Huyen Bac Quang",
+      "HUYENQUANGBINH": "Huyen Quang Binh",
+      "HAGIANGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "CAOBANG": {
+    "name": "Tinh Cao Bang",
+    "cities": {
+      "THANHPHOCAOBANG": "Thanh pho Cao Bang",
+      "HUYENBAOLAC": "Huyen Bao Lac",
+      "HUYENTHONGNONG": "Huyen Thong Nong",
+      "HUYENHAQUANG": "Huyen Ha Quang",
+      "HUYENTRALINH": "Huyen Tra Linh",
+      "HUYENTRUNGKHANH": "Huyen Trung Khanh",
+      "HUYENNGUYENBINH": "Huyen Nguyen Binh",
+      "HUYENHOAAN": "Huyen Hoa An",
+      "HUYENQUANGUYEN": "Huyen Quang Uyen",
+      "HUYENTHACHAN": "Huyen Thach An",
+      "HUYENHALANG": "Huyen Ha Lang",
+      "HUYENBAOLAM": "Huyen Bao Lam",
+      "HUYENPHUCHOA": "Huyen Phuc Hoa",
+      "CAOBANGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "LAICHAU": {
+    "name": "Tinh Lai Chau",
+    "cities": {
+      "THANHPHOLAICHAU": "Thanh Pho Lai Chau",
+      "HUYENTAMDUONG": "Huyen Tam Duong",
+      "HUYENPHONGTHO": "Huyen Phong Tho",
+      "HUYENSINHO": "Huyen Sin Ho",
+      "HUYENMUONGTE": "Huyen Muong Te",
+      "HUYENTHANUYEN": "Huyen Than Uyen",
+      "HUYENTANUYEN": "Huyen Tan Uyen",
+      "HUYENNAMNHUM": "Huyen Nam Nhum",
+      "LAICHAUKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "LAOCAI": {
+    "name": "Tinh Lao Cai",
+    "cities": {
+      "THANHPHOLAOCAI": "Thanh pho Lao Cai",
+      "HUYENXIMACAI": "Huyen Xi Ma Cai",
+      "HUYENBATXAT": "Huyen Bat Xat",
+      "HUYENBAOTHANG": "Huyen Bao Thang",
+      "HUYENSAPA": "Huyen Sa Pa",
+      "HUYENVANBAN": "Huyen Van Ban",
+      "HUYENBAOYEN": "Huyen Bao Yen",
+      "HUYENBACHA": "Huyen Bac Ha",
+      "HUYENMUONGKHUONG": "Huyen Muong Khuong",
+      "LAOCAIKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "TUYENQUANG": {
+    "name": "Tinh Tuyen Quang",
+    "cities": {
+      "TH.PHOTUYENQUANG": "Th. pho Tuyen Quang",
+      "HUYENLAMBINH": "Huyen Lam Binh",
+      "HUYENNAHANG": "Huyen Na Hang",
+      "HUYENCHIEMHOA": "Huyen Chiem Hoa",
+      "HUYENHAMYEN": "Huyen Ham Yen",
+      "HUYENYENSON": "Huyen Yen Son",
+      "HUYENSONDUONG": "Huyen Son Duong",
+      "TUYENQUANGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "LANGSON": {
+    "name": "Tinh Lang Son",
+    "cities": {
+      "THANHPHOLANGSON": "Thanh pho Lang Son",
+      "HUYENTRANGDINH": "Huyen Trang Dinh",
+      "HUYENBINHGIA": "Huyen Binh Gia",
+      "HUYENVANLANG": "Huyen Van Lang",
+      "HUYENBACSON": "Huyen Bac Son",
+      "HUYENVANQUAN": "Huyen Van Quan",
+      "HUYENCAOLOC": "Huyen Cao Loc",
+      "HUYENLOCBINH": "Huyen Loc Binh",
+      "HUYENCHILANG": "Huyen Chi Lang",
+      "HUYENDINHLAP": "Huyen Dinh Lap",
+      "HUYENHUULUNG": "Huyen Huu Lung",
+      "LANGSONKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BACKAN": {
+    "name": "Tinh Bac Kan",
+    "cities": {
+      "THIXABACKAN": "Thi xa Bac Kan",
+      "HUYENCHODON": "Huyen Cho Don",
+      "HUYENBACHTHONG": "Huyen Bach Thong",
+      "HUYENNARI": "Huyen Na Ri",
+      "HUYENNGANSON": "Huyen Ngan Son",
+      "HUYENBABE": "Huyen Ba Be",
+      "HUYENCHOMOI": "Huyen Cho Moi",
+      "HUYENPACNAM": "Huyen Pac Nam",
+      "BACKANKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "THAINGUYEN": {
+    "name": "Tinh Thai Nguyen",
+    "cities": {
+      "THANHPHOTHAINGUYEN": "Thanh pho Thai Nguyen",
+      "THIXASONGCONG": "Thi xa Song Cong",
+      "HUYENDINHHOA": "Huyen Dinh Hoa",
+      "HUYENPHULUONG": "Huyen Phu Luong",
+      "HUYENVONHAI": "Huyen Vo Nhai",
+      "HUYENDAITU": "Huyen Dai Tu",
+      "HUYENDONGHY": "Huyen Dong Hy",
+      "HUYENPHUBINH": "Huyen Phu Binh",
+      "HUYENPHOYEN": "Huyen Pho Yen",
+      "THAINGUYENKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "YENBAI": {
+    "name": "Tinh Yen Bai",
+    "cities": {
+      "THANHPHOYENBAI": "Thanh pho Yen Bai",
+      "THIXANGHIALO": "Thi xa Nghia Lo",
+      "HUYENVANYEN": "Huyen Van Yen",
+      "HUYENYENBINH": "Huyen Yen Binh",
+      "HUYENMUCANGCHAI": "Huyen Mu Cang Chai",
+      "HUYENVANCHAN": "Huyen Van Chan",
+      "HUYENTRANYEN": "Huyen Tran Yen",
+      "HUYENTRAMTAU": "Huyen Tram Tau",
+      "HUYENLUCYEN": "Huyen Luc Yen",
+      "YENBAIKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "SONLA": {
+    "name": "Tinh Son La",
+    "cities": {
+      "THANHPHOSONLA": "Thanh pho Son La",
+      "HUYENQUYNHNHAI": "Huyen Quynh Nhai",
+      "HUYENMUONGLA": "Huyen Muong La",
+      "HUYENTHUANCHAU": "Huyen Thuan Chau",
+      "HUYENBACYEN": "Huyen Bac Yen",
+      "HUYENPHUYEN": "Huyen Phu Yen",
+      "HUYENMAISON": "Huyen Mai Son",
+      "HUYENYENCHAU": "Huyen Yen Chau",
+      "HUYENSONGMA": "Huyen Song Ma",
+      "HUYENMOCCHAU": "Huyen Moc Chau",
+      "HUYENSOPCOP": "huyen Sop Cop",
+      "HUYENVANHO": "Huyen Van Ho",
+      "SONLAKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "PHUTHO": {
+    "name": "Tinh Phu Tho",
+    "cities": {
+      "THANHPHOVIETTRI": "Thanh pho Viet Tri",
+      "THIXAPHUTHO": "Thi xa Phu Tho",
+      "HUYENDOANHUNG": "Huyen Doan Hung",
+      "HUYENTHANHBA": "Huyen Thanh Ba",
+      "HUYENHAHOA": "Huyen Ha Hoa",
+      "HUYENCAMKHE": "Huyen Cam Khe",
+      "HUYENYENLAP": "Huyen Yen Lap",
+      "HUYENTHANHSON": "Huyen Thanh Son",
+      "HUYENPHUNINH": "Huyen Phu Ninh",
+      "HUYENLAMTHAO": "Huyen Lam Thao",
+      "HUYENTAMNONG": "Huyen Tam Nong",
+      "HUYENTHANHTHUY": "Huyen Thanh Thuy",
+      "HUYENTANSON": "Huyen Tan Son",
+      "PHUTHOKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "VINHPHUC": {
+    "name": "Tinh Vinh Phuc",
+    "cities": {
+      "THANHPHOVINHYEN": "Thanh pho Vinh Yen",
+      "HUYENTAMDUONG": "Huyen Tam Duong",
+      "HUYENLAPTHACH": "Huyen Lap Thach",
+      "HUYENVINHTUONG": "Huyen Vinh Tuong",
+      "HUYENYENLAC": "Huyen Yen Lac",
+      "HUYENBINHXUYEN": "Huyen Binh Xuyen",
+      "HUYENSONGLO": "Huyen Song Lo",
+      "THIXAPHUCYEN": "Thi xa Phuc Yen",
+      "HUYENTAMDAO": "Huyen Tam Dao",
+      "VINHPHUCKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "QUANGNINH": {
+    "name": "Tinh Quang Ninh",
+    "cities": {
+      "THANHPHOHALONG": "Thanh pho Ha Long",
+      "THANHPHOCAMPHA": "Thanh pho Cam Pha",
+      "THANHPHOUONGBI": "Thanh pho Uong Bi",
+      "THANHPHOMONGCAI": "Thanh pho Mong Cai",
+      "HUYENBINHLIEU": "Huyen Binh Lieu",
+      "HUYENDAMHA": "Huyen Dam Ha",
+      "HUYENHAIHA": "Huyen Hai Ha",
+      "HUYENTIENYEN": "Huyen Tien Yen",
+      "HUYENBACHE": "Huyen Ba Che",
+      "HUYENDONGTRIEU": "Huyen Dong Trieu",
+      "THIXAQUANGYEN": "Thi xa Quang Yen",
+      "HUYENHOANHBO": "Huyen Hoanh Bo",
+      "HUYENVANDON": "Huyen Van Don",
+      "HUYENCOTO": "Huyen Co To",
+      "QUANGNINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BACGIANG": {
+    "name": "Tinh Bac Giang",
+    "cities": {
+      "THANHPHOBACGIANG": "Thanh pho Bac Giang",
+      "HUYENYENTHE": "Huyen Yen The",
+      "HUYENLUCNGAN": "Huyen Luc Ngan",
+      "HUYENSONDONG": "Huyen Son Dong",
+      "HUYENLUCNAM": "Huyen Luc Nam",
+      "HUYENTANYEN": "Huyen Tan Yen",
+      "HUYENHIEPHOA": "Huyen Hiep Hoa",
+      "HUYENLANGGIANG": "Huyen Lang Giang",
+      "HUYENVIETYEN": "Huyen Viet Yen",
+      "HUYENYENDUNG": "Huyen Yen Dung",
+      "BACGIANGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BACNINH": {
+    "name": "Tinh Bac Ninh",
+    "cities": {
+      "THANHPHOBACNINH": "Thanh pho Bac Ninh",
+      "HUYENYENPHONG": "Huyen Yen Phong",
+      "HUYENQUEVO": "Huyen Que Vo",
+      "HUYENTIENDU": "Huyen Tien Du",
+      "THIXATUSON": "Thi xa Tu Son",
+      "HUYENTHUANTHANH": "Huyen Thuan Thanh",
+      "HUYENGIABINH": "Huyen Gia Binh",
+      "HUYENLUONGTAI": "Huyen Luong Tai",
+      "BACNINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "HAIDUONG": {
+    "name": "Tinh Hai Duong",
+    "cities": {
+      "THANHPHOHAIDUONG": "Thanh pho Hai Duong",
+      "THIXACHILINH": "Thi xa Chi Linh",
+      "HUYENNAMSACH": "Huyen Nam Sach",
+      "HUYENKINHMON": "Huyen Kinh Mon",
+      "HUYENGIALOC": "Huyen Gia Loc",
+      "HUYENTUKY": "Huyen Tu Ky",
+      "HUYENTHANHMIEN": "Huyen Thanh Mien",
+      "HUYENNINHGIANG": "Huyen Ninh Giang",
+      "HUYENCAMGIANG": "Huyen Cam Giang",
+      "HUYENTHANHHA": "Huyen Thanh Ha",
+      "HUYENKIMTHANH": "Huyen Kim Thanh",
+      "HUYENBINHGIANG": "Huyen Binh Giang",
+      "HAIDUONGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "HUNGYEN": {
+    "name": "Tinh Hung Yen",
+    "cities": {
+      "THANHPHOHUNGYEN": "Thanh pho Hung Yen",
+      "HUYENKIMDONG": "Huyen Kim Dong",
+      "HUYENANTHI": "Huyen An Thi",
+      "HUYENKHOAICHAU": "Huyen Khoai Chau",
+      "HUYENYENMY": "Huyen Yen My",
+      "HUYENTIENLU": "Huyen Tien Lu",
+      "HUYENPHUCU": "Huyen Phu Cu",
+      "HUYENMYHAO": "Huyen My Hao",
+      "HUYENVANLAM": "Huyen Van Lam",
+      "HUYENVANGIANG": "Huyen Van Giang",
+      "HUNGYENKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "HOABINH": {
+    "name": "Tinh Hoa Binh",
+    "cities": {
+      "THANHPHOHOABINH": "Thanh pho Hoa Binh",
+      "HUYENDABAC": "Huyen Da Bac",
+      "HUYENMAICHAU": "Huyen Mai Chau",
+      "HUYENTANLAC": "Huyen Tan Lac",
+      "HUYENLACSON": "Huyen Lac Son",
+      "HUYENKYSON": "Huyen Ky Son",
+      "HUYENLU#ONGSON": "Huyen Lu#ong Son",
+      "HUYENKIMBOI": "Huyen Kim Boi",
+      "HUYENLACTHUY": "Huyen Lac Thuy",
+      "HUYENYENTHUY": "Huyen Yen Thuy",
+      "HUYENCAOPHONG": "Huyen Cao Phong",
+      "HOABINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "HANAM": {
+    "name": "TINH HA NAM",
+    "cities": {
+      "THANHPHOPHULY": "Thanh pho Phu Ly",
+      "HUYENDUYTIEN": "Huyen Duy Tien",
+      "HUYENKIMBANG": "Huyen Kim Bang",
+      "HUYENLYNHAN": "Huyen Ly Nhan",
+      "HUYENTHANHLIEM": "Huyen Thanh Liem",
+      "HUYENBINHLUC": "Huyen Binh Luc",
+      "HANAMKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "NAMDINH": {
+    "name": "Tinh Nam Dinh",
+    "cities": {
+      "THANHPHONAMDINH": "Thanh pho Nam Dinh",
+      "HUYENMYLOC": "Huyen My Loc",
+      "HUYENXUANTRUONG": "Huyen Xuan Truong",
+      "HUYENGIAOTHUY": "Huyen Giao Thuy",
+      "HUYENYYEN": "Huyen Y Yen",
+      "HUYENVUBAN": "Huyen Vu Ban",
+      "HUYENNAMTRUC": "Huyen Nam Truc",
+      "HUYENTRUCNINH": "Huyen Truc Ninh",
+      "HUYENNGHIAHUNG": "Huyen Nghia Hung",
+      "HUYENHAIHAU": "Huyen Hai Hau",
+      "NAMDINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "THAIBINH": {
+    "name": "Tinh Thai Binh",
+    "cities": {
+      "THANHPHOTHAIBINH": "Thanh pho Thai Binh",
+      "HUYENQUYNHPHU": "Huyen Quynh Phu",
+      "HUYENHUNGHA": "Huyen Hung Ha",
+      "HUYENDONGHUNG": "Huyen Dong Hung",
+      "HUYENVUTHU": "Huyen Vu Thu",
+      "HUYENKIENXUONG": "Huyen Kien Xuong",
+      "HUYENTIENHAI": "Huyen Tien Hai",
+      "HUYENTHAITHUY": "Huyen Thai Thuy",
+      "THAIBINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "NINHBINH": {
+    "name": "Tinh Ninh Binh",
+    "cities": {
+      "THANHPHONINHBINH": "Thanh pho Ninh Binh",
+      "THIXATAMDIEP": "Thi xa Tam Diep",
+      "HUYENNHOQUAN": "Huyen Nho Quan",
+      "HUYENGIAVIEN": "Huyen Gia Vien",
+      "HUYENHOALU": "Huyen Hoa Lu",
+      "HUYENYENMO": "Huyen Yen Mo",
+      "HUYENKIMSON": "Huyen Kim Son",
+      "HUYENYENKHANH": "Huyen Yen Khanh",
+      "NINHBINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "THANHHOA": {
+    "name": "Tinh Thanh Hoa",
+    "cities": {
+      "THANHPHOTHANHHOA": "Thanh pho Thanh Hoa",
+      "THIXABIMSON": "Thi xa Bim Son",
+      "THIXASAMSON": "Thi xa Sam Son",
+      "HUYENQUANHOA": "Huyen Quan Hoa",
+      "HUYENQUANSON": "Huyen Quan Son",
+      "HUYENMUONGLAT": "Huyen Muong Lat",
+      "HUYENBATHUOC": "Huyen Ba Thuoc",
+      "HUYENTHUONGXUAN": "Huyen Thuong Xuan",
+      "HUYENNHUXUAN": "Huyen Nhu Xuan",
+      "HUYENNHUTHANH": "Huyen Nhu Thanh",
+      "HUYENLANGCHANH": "Huyen Lang Chanh",
+      "HUYENNGOCLAC": "Huyen Ngoc Lac",
+      "HUYENTHACHTHANH": "Huyen Thach Thanh",
+      "HUYENCAMTHUY": "Huyen Cam Thuy",
+      "HUYENTHOXUAN": "Huyen Tho Xuan",
+      "HUYENVINHLOC": "Huyen Vinh Loc",
+      "HUYENTHIEUHOA": "Huyen Thieu Hoa",
+      "HUYENTRIEUSON": "Huyen Trieu Son",
+      "HUYENNONGCONG": "Huyen Nong Cong",
+      "HUYENDONGSON": "Huyen Dong Son",
+      "HUYENHATRUNG": "Huyen Ha Trung",
+      "HUYENHOANGHOA": "Huyen Hoang Hoa",
+      "HUYENNGASON": "Huyen Nga Son",
+      "HUYENHAULOC": "Huyen Hau Loc",
+      "HUYENQUANGXUONG": "Huyen Quang Xuong",
+      "HUYENTINHGIA": "Huyen Tinh Gia",
+      "HUYENYENDINH": "Huyen Yen Dinh",
+      "THANHHOAKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "NGHEAN": {
+    "name": "Tinh Nghe An",
+    "cities": {
+      "THANHPHOVINH": "Thanh pho Vinh",
+      "THIXACUALO": "Thi xa Cua Lo",
+      "HUYENQUYCHAU": "Huyen Quy Chau",
+      "HUYENQUYHOP": "Huyen Quy Hop",
+      "HUYENNGHIADAN": "Huyen Nghia Dan",
+      "HUYENQUYNHLUU": "Huyen Quynh Luu",
+      "HUYENKYSON": "Huyen Ky Son",
+      "HUYENTUONGDUONG": "Huyen Tuong Duong",
+      "HUYENCONCUONG": "Huyen Con Cuong",
+      "HUYENTANKY": "Huyen Tan Ky",
+      "HUYENYENTHANH": "Huyen Yen Thanh",
+      "HUYENDIENCHAU": "Huyen Dien Chau",
+      "HUYENANHSON": "Huyen Anh Son",
+      "HUYENDOLUONG": "Huyen Do Luong",
+      "HUYENTHANHCHUONG": "Huyen Thanh Chuong",
+      "HUYENNGHILOC": "Huyen Nghi Loc",
+      "HUYENNAMDAN": "Huyen Nam Dan",
+      "HUYENHUNGNGUYEN": "Huyen Hung Nguyen",
+      "HUYENQUEPHONG": "Huyen Que Phong",
+      "THIXATHAIHOA": "Thi Xa Thai Hoa",
+      "THIXAHOANGMAI": "Thi Xa Hoang Mai",
+      "NGHEANKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "HATINH": {
+    "name": "Tinh Ha Tinh",
+    "cities": {
+      "THANHPHOHATINH": "Thanh pho Ha Tinh",
+      "THIXAHONGLINH": "Thi xa Hong Linh",
+      "HUYENHUONGSON": "Huyen Huong Son",
+      "HUYENDUCTHO": "Huyen Duc Tho",
+      "HUYENNGHIXUAN": "Huyen Nghi Xuan",
+      "HUYENCANLOC": "Huyen Can Loc",
+      "HUYENHUONGKHE": "Huyen Huong Khe",
+      "HUYENTHACHHA": "Huyen Thach Ha",
+      "HUYENCAMXUYEN": "Huyen Cam Xuyen",
+      "HUYENKYANH": "Huyen Ky Anh",
+      "HUYENVUQUANG": "Huyen Vu Quang",
+      "HUYENLOCHA": "Huyen Loc Ha",
+      "HATINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "QUANGBINH": {
+    "name": "Tinh Quang Binh",
+    "cities": {
+      "THANHPHODONGHOI": "Thanh pho Dong Hoi",
+      "HUYENTUYENHOA": "Huyen Tuyen Hoa",
+      "HUYENMINHHOA": "Huyen Minh Hoa",
+      "HUYENQUANGTRACH": "Huyen Quang Trach",
+      "HUYENBOTRACH": "Huyen Bo Trach",
+      "HUYENQUANGNINH": "Huyen Quang Ninh",
+      "HUYENLETHUY": "Huyen Le Thuy",
+      "QUANGBINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "QUANGTRI": {
+    "name": "Tinh Quang Tri",
+    "cities": {
+      "THANHPHODONGHA": "Thanh pho Dong Ha",
+      "THIXAQUANGTRI": "Thi xa Quang Tri",
+      "HUYENVINHLINH": "Huyen Vinh Linh",
+      "HUYENGIOLINH": "Huyen Gio Linh",
+      "HUYENCAMLO": "Huyen Cam Lo",
+      "HUYENTRIEUPHONG": "Huyen Trieu Phong",
+      "HUYENHAILANG": "Huyen Hai Lang",
+      "HUYENHUONGHOA": "Huyen Huong Hoa",
+      "HUYENDAKRONG": "Huyen Dak Rong",
+      "HUYENDAOCONCO": "Huyen dao Con Co",
+      "QUANGTRIKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "THUATHIENHUE": {
+    "name": "Tinh Thua Thien Hue",
+    "cities": {
+      "THANHPHOHUE": "Thanh pho Hue",
+      "HUYENPHONGDIEN": "Huyen Phong Dien",
+      "HUYENQUANGDIEN": "Huyen Quang Dien",
+      "THIXAHUONGTRA": "Thi xa Huong Tra",
+      "HUYENPHUVANG": "Huyen Phu Vang",
+      "THIXAHUONGTHUY": "Thi xa Huong Thuy",
+      "HUYENPHULOC": "Huyen Phu Loc",
+      "HUYENNAMDONG": "Huyen Nam Dong",
+      "HUYENALUOI": "Huyen A Luoi",
+      "THUATHIENHUEKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "QUANGNAM": {
+    "name": "Tinh Quang Nam",
+    "cities": {
+      "THANHPHOTAMKY": "Thanh pho Tam Ky",
+      "THANHPHOHOIAN": "Thanh pho Hoi An",
+      "HUYENDUYXUYEN": "Huyen Duy Xuyen",
+      "HUYENDIENBAN": "Huyen Dien Ban",
+      "HUYENDAILOC": "Huyen Dai Loc",
+      "HUYENQUESON": "Huyen Que Son",
+      "HUYENHIEPDUC": "Huyen Hiep Duc",
+      "HUYENTHANGBINH": "Huyen Thang Binh",
+      "HUYENNUITHANH": "Huyen Nui Thanh",
+      "HUYENTIENPHUOC": "Huyen Tien Phuoc",
+      "HUYENBACTRAMY": "Huyen Bac Tra My",
+      "HUYENDONGGIANG": "Huyen Dong Giang",
+      "HUYENNAMGIANG": "Huyen Nam Giang",
+      "HUYENPHUOCSON": "Huyen Phuoc Son",
+      "HUYENNAMTRAMY": "Huyen Nam Tra My",
+      "HUYENTAYGIANG": "Huyen Tay Giang",
+      "HUYENPHUNINH": "Huyen Phu Ninh",
+      "HUYENNONGSON": "Huyen Nong Son",
+      "QUANGNAMKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "QUANGNGAI": {
+    "name": "Tinh Quang Ngai",
+    "cities": {
+      "THANHPHOQUANGNGAI": "Thanh pho Quang Ngai",
+      "HUYENLYSON": "Huyen Ly Son",
+      "HUYENBINHSON": "Huyen Binh Son",
+      "HUYENTRABONG": "Huyen Tra Bong",
+      "HUYENSONTINH": "Huyen Son Tinh",
+      "HUYENSONHA": "Huyen Son Ha",
+      "HUYENTUNGHIA": "Huyen Tu Nghia",
+      "HUYENNGHIAHANH": "Huyen Nghia Hanh",
+      "HUYENMINHLONG": "Huyen Minh Long",
+      "HUYENMODUC": "Huyen Mo Duc",
+      "HUYENDUCPHO": "Huyen Duc Pho",
+      "HUYENBATO": "Huyen Ba To",
+      "HUYENSONTAY": "Huyen Son Tay",
+      "HUYENTAYTRA": "Huyen Tay Tra",
+      "QUANGNGAIKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "KONTUM": {
+    "name": "Tinh Kon Tum",
+    "cities": {
+      "THANHPHOKONTUM": "Thanh pho Kon Tum",
+      "HUYENDAKGLEI": "Huyen Dak Glei",
+      "HUYENNGOCHOI": "Huyen Ngoc Hoi",
+      "HUYENDAKTO": "Huyen Dak To",
+      "HUYENSATHAY": "Huyen Sa Thay",
+      "HUYENKONPLONG": "Huyen Kon Plong",
+      "HUYENDAKHA": "Huyen Dak Ha",
+      "HUYENKONRAY": "Huyen Kon Ray",
+      "HUYENTUMORONG": "Huyen Tu Mo Rong",
+      "KONTUMKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BINHDINH": {
+    "name": "Tinh Binh Dinh",
+    "cities": {
+      "THANHPHOQUYNHON": "Thanh pho Quy Nhon",
+      "HUYENANLAO": "Huyen An Lao",
+      "HUYENHOAIAN": "Huyen Hoai An",
+      "HUYENHOAINHON": "Huyen Hoai Nhon",
+      "HUYENPHUMY": "Huyen Phu My",
+      "HUYENPHUCAT": "Huyen Phu Cat",
+      "HUYENVINHTHANH": "Huyen Vinh Thanh",
+      "HUYENTAYSON": "Huyen Tay Son",
+      "HUYENVANCANH": "Huyen Van Canh",
+      "THIXAANNHON": "Thi xa An Nhon",
+      "HUYENTUYPHUOC": "Huyen Tuy Phuoc",
+      "BINHDINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "GIALAI": {
+    "name": "Tinh Gia Lai",
+    "cities": {
+      "THANHPHOPLEIKU": "Thanh pho Pleiku",
+      "HUYENCHUPAH": "Huyen Chu Pah",
+      "HUYENMANGYANG": "Huyen Mang Yang",
+      "HUYENKBANG": "Huyen Kbang",
+      "THIXAANKHE": "Thi xa An Khe",
+      "HUYENKONGCHRO": "Huyen Kong Chro",
+      "HUYENDUCCO": "Huyen Duc Co",
+      "HUYENCHUPRONG": "Huyen Chu Prong",
+      "HUYENCHUSE": "Huyen Chu Se",
+      "THIXAAYUNPA": "Thi xa Ayun Pa",
+      "HUYENKRONGPA": "Huyen Krong Pa",
+      "HUYENIAGRAI": "Huyen Ia Grai",
+      "HUYENDAKDOA": "Huyen Dak Doa",
+      "HUYENIAPA": "Huyen Ia Pa",
+      "HUYENDAKPO": "Huyen Dak Po",
+      "HUYENPHUTHIEN": "Huyen Phu Thien",
+      "HUYENCHUPUH": "Huyen Chu Puh",
+      "GIALAIKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "PHUYEN": {
+    "name": "Tinh Phu Yen",
+    "cities": {
+      "THANHPHOTUYHOA": "Thanh pho Tuy Hoa",
+      "HUYENDONGXUAN": "Huyen Dong Xuan",
+      "THIXASONGCAU": "Thi Xa Song Cau",
+      "HUYENTUYAN": "Huyen Tuy An",
+      "HUYENSONHOA": "Huyen Son Hoa",
+      "HUYENSONGHINH": "Huyen Song Hinh",
+      "HUYENDONGHOA": "Huyen Dong Hoa",
+      "HUYENPHUHOA": "Huyen Phu Hoa",
+      "HUYENTAYHOA": "Huyen Tay Hoa",
+      "PHUYENKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "DAKLAK": {
+    "name": "Tinh Dak Lak",
+    "cities": {
+      "THANHPHOBUONMATHUOT": "Thanh pho Buon Ma Thuot",
+      "HUYENEAHLEO": "Huyen Ea H Leo",
+      "HUYENKRONGBUK": "Huyen Krong Buk",
+      "HUYENKRONGNANG": "Huyen Krong Nang",
+      "HUYENEASUP": "Huyen Ea Sup",
+      "HUYENCUMGAR": "Huyen Cu Mgar",
+      "HUYENKRONGPAC": "Huyen Krong Pac",
+      "HUYENEAKAR": "Huyen Ea Kar",
+      "HUYENMDRAK": "Huyen M Drak",
+      "HUYENKRONGANA": "Huyen Krong Ana",
+      "HUYENKRONGBONG": "Huyen Krong Bong",
+      "HUYENLAK": "Huyen Lak",
+      "HUYENBUONDON": "Huyen Buon Don",
+      "HUYENCUKUIN": "Huyen Cu Kuin",
+      "THIXABUONHO": "Thi Xa Buon Ho",
+      "DAKLAKKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "KHANHHOA": {
+    "name": "Tinh Khanh Hoa",
+    "cities": {
+      "THANHPHONHATRANG": "Thanh pho Nha Trang",
+      "HUYENVANNINH": "Huyen Van Ninh",
+      "HUYENNINHHOA": "Huyen Ninh Hoa",
+      "HUYENDIENKHANH": "Huyen Dien Khanh",
+      "HUYENKHANHVINH": "Huyen Khanh Vinh",
+      "THIXACAMRANH": "Thi xa Cam Ranh",
+      "HUYENKHANHSON": "Huyen Khanh Son",
+      "HUYENDAOTRUONGSA": "Huyen dao Truong Sa",
+      "HUYENCAMLAM": "Huyen Cam Lam",
+      "KHANHHOAKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "LAMDONG": {
+    "name": "Tinh Lam Dong",
+    "cities": {
+      "THANHPHODALAT": "Thanh pho Da Lat",
+      "THANHPHOBAOLOC": "Thanh pho Bao Loc",
+      "HUYENDUCTRONG": "Huyen Duc Trong",
+      "HUYENDILINH": "Huyen Di Linh",
+      "HUYENDONDUONG": "Huyen Don Duong",
+      "HUYENLACDUONG": "Huyen Lac Duong",
+      "HUYENDAHUOAI": "Huyen Da Huoai",
+      "HUYENDATEH": "Huyen Da Teh",
+      "HUYENCATTIEN": "Huyen Cat Tien",
+      "HUYENLAMHA": "Huyen Lam Ha",
+      "HUYENBAOLAM": "Huyen Bao Lam",
+      "HUYENDAMRONG": "Huyen Dam Rong",
+      "LAMDONGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BINHPHUOC": {
+    "name": "Binh Phuoc",
+    "cities": {
+      "THIXADONGXOAI": "Thi xa Dong Xoai",
+      "HUYENDONGPHU": "Huyen Dong Phu",
+      "HUYENCHONTHANH": "Huyen Chon Thanh",
+      "HUYENBINHLONG": "Huyen Binh Long",
+      "HUYENLOCNINH": "Huyen Loc Ninh",
+      "HUYENBUDOP": "Huyen Bu Dop",
+      "HUYENPHUOCLONG": "Huyen Phuoc Long",
+      "HUYENBUDANG": "Huyen Bu Dang",
+      "HUYENHONQUAN": "Huyen Hon Quan",
+      "HUYENBUGIAMAP": "Huyen Bu Gia Map",
+      "BINHPHUOCKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BINHDUONG": {
+    "name": "Tinh Binh Duong",
+    "cities": {
+      "THPHOTHUDAUMOT": "Th. pho Thu Dau Mot",
+      "HUYENBENCAT": "Huyen Ben Cat",
+      "HUYENTANUYEN": "Huyen Tan Uyen",
+      "THIXATHUANAN": "Thi xa Thuan An",
+      "THIXADIAN": "Thi xa Di An",
+      "HUYENPHUGIAO": "Huyen Phu Giao",
+      "HUYENDAUTIENG": "Huyen Dau Tieng",
+      "BINHDUONGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "NINHTHUAN": {
+    "name": "Tinh Ninh Thuan",
+    "cities": {
+      "THANHPHOPHANRANGTHAPCHAM": "Thanh pho Phan Rang -Thap Cham",
+      "HUYENNINHSON": "Huyen Ninh Son",
+      "HUYENNINHHAI": "Huyen Ninh Hai",
+      "HUYENNINHPHUOC": "Huyen Ninh Phuoc",
+      "HUYENBACAI": "Huyen Bac Ai",
+      "HUYENTHUANBAC": "Huyen Thuan Bac",
+      "HUYENTHUANNAM": "Huyen Thuan Nam",
+      "NINHTHUANKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "TAYNINH": {
+    "name": "Tinh Tay Ninh",
+    "cities": {
+      "THIXATAYNINH": "Thi xa Tay Ninh",
+      "HUYENTANBIEN": "Huyen Tan Bien",
+      "HUYENTANCHAU": "Huyen Tan Chau",
+      "HUYENDUONGMINHCHAU": "Huyen Duong Minh Chau",
+      "HUYENCHAUTHANH": "Huyen Chau Thanh",
+      "HUYENHOATHANH": "Huyen Hoa Thanh",
+      "HUYENBENCAU": "Huyen Ben Cau",
+      "HUYENGODAU": "Huyen Go Dau",
+      "HUYENTRANGBANG": "Huyen Trang Bang",
+      "TAYNINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BINHTHUAN": {
+    "name": "Tinh Binh Thuan",
+    "cities": {
+      "THANHPHOPHANTHIET": "Thanh pho Phan Thiet",
+      "HUYENTUYPHONG": "Huyen Tuy Phong",
+      "HUYENBACBINH": "Huyen Bac Binh",
+      "HUYENHAMTHUANBAC": "Huyen Ham Thuan Bac",
+      "HUYENHAMTHUANNAM": "Huyen Ham Thuan Nam",
+      "HUYENHAMTAN": "Huyen Ham Tan",
+      "HUYENDUCLINH": "Huyen Duc Linh",
+      "HUYENTANHLINH": "Huyen Tanh Linh",
+      "HUYENDAOPHUQUY": "Huyen dao Phu Quy",
+      "THIXALAGI": "Thi xa La Gi",
+      "BINHTHUANKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "DONGNAI": {
+    "name": "Tinh Dong Nai",
+    "cities": {
+      "THANHPHOBIENHOA": "Thanh pho Bien Hoa",
+      "HUYENVINHCUU": "Huyen Vinh Cuu",
+      "HUYENTANPHU": "Huyen Tan Phu",
+      "HUYENDINHQUAN": "Huyen Dinh Quan",
+      "HUYENTHONGNHAT": "Huyen Thong Nhat",
+      "THIXALONGKHANH": "Thi xa Long Khanh",
+      "HUYENXUANLOC": "Huyen Xuan Loc",
+      "HUYENLONGTHANH": "Huyen Long Thanh",
+      "HUYENNHONTRACH": "Huyen Nhon Trach",
+      "HUYENTRANGBOM": "Huyen Trang Bom",
+      "HUYENCAMMY": "Huyen Cam My",
+      "DONGNAIKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "LONGAN": {
+    "name": "Tinh Long An",
+    "cities": {
+      "THANHPHOTANAN": "Thanh pho Tan An",
+      "HUYENVINHHUNG": "Huyen Vinh Hung",
+      "HUYENMOCHOA": "Huyen Moc Hoa",
+      "HUYENTANTHANH": "Huyen Tan Thanh",
+      "HUYENTHANHHOA": "Huyen Thanh Hoa",
+      "HUYENDUCHUE": "Huyen Duc Hue",
+      "HUYENDUCHOA": "Huyen Duc Hoa",
+      "HUYENBENLUC": "Huyen Ben Luc",
+      "HUYENTHUTHUA": "Huyen Thu Thua",
+      "HUYENCHAUTHANH": "Huyen Chau Thanh",
+      "HUYENTANTRU": "Huyen Tan Tru",
+      "HUYENCANDUOC": "Huyen Can Duoc",
+      "HUYENCANGIUOC": "Huyen Can Giuoc",
+      "HUYENTANHUNG": "Huyen Tan Hung",
+      "THIXAKIENTUONG": "Thi xa Kien Tuong",
+      "LONGANKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "DONGTHAP": {
+    "name": "Tinh Dong Thap",
+    "cities": {
+      "THANHPHOCAOLANH": "Thanh pho Cao Lanh",
+      "THANHPHOSADEC": "Thanh pho Sa Dec",
+      "HUYENTANHONG": "Huyen Tan Hong",
+      "HUYENHONGNGU": "Huyen Hong Ngu",
+      "HUYENTAMNONG": "Huyen Tam Nong",
+      "HUYENTHANHBINH": "Huyen Thanh Binh",
+      "HUYENCAOLANH": "Huyen Cao Lanh",
+      "HUYENLAPVO": "Huyen Lap Vo",
+      "HUYENTHAPMUOI": "Huyen Thap Muoi",
+      "HUYENLAIVUNG": "Huyen Lai Vung",
+      "HUYENCHAUTHANH": "Huyen Chau Thanh",
+      "THIXAHONGNGU": "Thi Xa Hong Ngu",
+      "DONGTHAPKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "ANGIANG": {
+    "name": "Tinh An Giang",
+    "cities": {
+      "THANHPHOLONGXUYEN": "Thanh pho Long Xuyen",
+      "THIXACHAUDOC": "Thi xa Chau Doc",
+      "HUYENANPHU": "Huyen An Phu",
+      "HUYENTANCHAU": "Huyen Tan Chau",
+      "HUYENPHUTAN": "Huyen Phu Tan",
+      "HUYENTINHBIEN": "Huyen Tinh Bien",
+      "HUYENTRITON": "Huyen Tri Ton",
+      "HUYENCHAUPHU": "Huyen Chau Phu",
+      "HUYENCHOMOI": "Huyen Cho Moi",
+      "HUYENCHAUTHANH": "Huyen Chau Thanh",
+      "HUYENTHOAISON": "Huyen Thoai Son",
+      "ANGIANGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BARIAVUNGTAU": {
+    "name": "Tinh Ba Ria Vung Tau",
+    "cities": {
+      "THANHPHOVUNGTAU": "Thanh pho Vung Tau",
+      "THANHPHOBARIA": "Thanh pho Ba Ria",
+      "HUYENXUYENMOC": "Huyen Xuyen Moc",
+      "HUYENLONGDIEN": "Huyen Long Dien",
+      "HUYENCONDAO": "Huyen Con Dao",
+      "HUYENTANTHANH": "Huyen Tan Thanh",
+      "HUYENCHAUDUC": "Huyen Chau Duc",
+      "HUYENDATDO": "Huyen Dat Do",
+      "BARIAVUNGTAUKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "TIENGIANG": {
+    "name": "Tinh Tien Giang",
+    "cities": {
+      "THANHPHOMYTHO": "Thanh pho My Tho",
+      "THIXAGOCONG": "Thi xa Go Cong",
+      "HUYENCAIBE": "Huyen Cai be",
+      "HUYENCAILAY": "Huyen Cai lay",
+      "HUYENCHAUTHANH": "Huyen Chau thanh",
+      "HUYENCHOGAO": "Huyen Cho Gao",
+      "HUYENGOCONGTAY": "Huyen Go Cong Tay",
+      "HUYENGOCONGDONG": "Huyen Go Cong Dong",
+      "HUYENTANPHUOC": "Huyen Tan Phuoc",
+      "HUYENTANPHUDONG": "Huyen Tan Phu Dong",
+      "TIENGIANGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "KIENGIANG": {
+    "name": "Tinh Kien Giang",
+    "cities": {
+      "THANHPHORACHGIA": "Thanh pho Rach Gia",
+      "THIXAHATIEN": "Thi xa Ha Tien",
+      "HUYENKIENLUONG": "Huyen Kien Luong",
+      "HUYENHONDAT": "Huyen Hon Dat",
+      "HUYENTANHIEP": "Huyen Tan Hiep",
+      "HUYENCHAUTHANH": "Huyen Chau Thanh",
+      "HUYENGIONGRIENG": "Huyen Giong Rieng",
+      "HUYENGOQUAO": "Huyen Go Quao",
+      "HUYENANBIEN": "Huyen An Bien",
+      "HUYENANMINH": "Huyen An Minh",
+      "HUYENVINHTHUAN": "Huyen Vinh Thuan",
+      "HUYENPHUQUOC": "Huyen Phu Quoc",
+      "HUYENKIENHAI": "Huyen Kien Hai",
+      "HUYENUMINHTHUONG": "Huyen U Minh Thuong",
+      "HUYENGIANGTHANH": "Huyen Giang Thanh",
+      "KIENGIANGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "TRAVINH": {
+    "name": "Tinh Tra Vinh",
+    "cities": {
+      "THANHPHOTRAVINH": "Thanh pho Tra Vinh",
+      "HUYENCANGLONG": "Huyen Cang Long",
+      "HUYENCAUKE": "Huyen Cau Ke",
+      "HUYENTIEUCAN": "Huyen Tieu Can",
+      "HUYENCHAUTHANH": "Huyen Chau Thanh",
+      "HUYENTRACU": "Huyen Tra Cu",
+      "HUYENCAUNGANG": "Huyen Cau Ngang",
+      "HUYENDUYENHAI": "Huyen Duyen Hai",
+      "TRAVINHKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BENTRE": {
+    "name": "Tinh Ben Tre",
+    "cities": {
+      "THANHPHOBENTRE": "Thanh pho Ben Tre",
+      "HUYENCHAUTHANH": "Huyen Chau Thanh",
+      "HUYENCHOLACH": "Huyen Cho Lach",
+      "HUYENMOCAYBAC": "Huyen Mo Cay Bac",
+      "HUYENGIONGTROM": "Huyen Giong Trom",
+      "HUYENBINHDAI": "Huyen Binh Dai",
+      "HUYENBATRI": "Huyen Ba Tri",
+      "HUYENTHANHPHU": "Huyen Thanh Phu",
+      "HUYENMOCAYNAM": "Huyen Mo Cay Nam",
+      "BENTREKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "VINHLONG": {
+    "name": "Tinh Vinh Long",
+    "cities": {
+      "THANHPHOVINHLONG": "Thanh pho Vinh Long",
+      "HUYENLONGHO": "Huyen Long Ho",
+      "HUYENMANGTHIT": "Huyen Mang Thit",
+      "THIXABINHMINH": "Thi xa Binh Minh",
+      "HUYENTAMBINH": "Huyen Tam Binh",
+      "HUYENTRAON": "Huyen Tra On",
+      "HUYENVUNGLIEM": "Huyen Vung Liem",
+      "HUYENBINHTAN": "Huyen Binh Tan",
+      "VINHLONGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "SOCTRANG": {
+    "name": "Tinh Soc Trang",
+    "cities": {
+      "THANHPHOSOCTRANG": "Thanh pho Soc Trang",
+      "HUYENKESACH": "Huyen Ke Sach",
+      "HUYENMYTU": "Huyen My Tu",
+      "HUYENMYXUYEN": "Huyen My Xuyen",
+      "HUYENTHANHTRI": "Huyen Thanh Tri",
+      "HUYENLONGPHU": "Huyen Long Phu",
+      "THIXAVINHCHAU": "Thi xa Vinh Chau",
+      "HUYENCULAODUNG": "Huyen Cu Lao Dung",
+      "HUYENNGANAM": "Huyen Nga Nam",
+      "HUYENCHAUTHANH": "Huyen Chau Thanh",
+      "HUYENTRANDE": "Huyen Tran De",
+      "SOCTRANGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "BACLIEU": {
+    "name": "Tinh Bac Lieu",
+    "cities": {
+      "THANHPHOBACLIEU": "Thanh pho Bac Lieu",
+      "HUYENVINHLOI": "Huyen Vinh Loi",
+      "HUYENHONGDAN": "Huyen Hong Dan",
+      "HUYENGIARAI": "Huyen Gia Rai",
+      "HUYENPHUOCLONG": "Huyen Phuoc Long",
+      "HUYENDONGHAI": "Huyen Dong Hai",
+      "HUYENHOABINH": "Huyen Hoa Binh",
+      "BACLIEUKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "CAMAU": {
+    "name": "Tinh Ca Mau",
+    "cities": {
+      "THANHPHOCAMAU": "Thanh pho Ca Mau",
+      "HUYENTHOIBINH": "Huyen Thoi Binh",
+      "HUYENUMINH": "Huyen U Minh",
+      "HUYENTRANVANTHOI": "Huyen Tran Van Thoi",
+      "HUYENCAINUOC": "Huyen Cai Nuoc",
+      "HUYENDAMDOI": "Huyen Dam Doi",
+      "HUYENNGOCHIEN": "Huyen Ngoc Hien",
+      "HUYENNAMCAN": "Huyen Nam Can",
+      "HUYENPHUTAN": "Huyen Phu Tan",
+      "CAMAUKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "DIENBIEN": {
+    "name": "Tinh Dien Bien",
+    "cities": {
+      "TP.DIENBIENPHU": "TP. Dien Bien Phu",
+      "THIXAMUONGLAY": "Thi xa Muong Lay",
+      "HUYENDIENBIEN": "Huyen Dien Bien",
+      "HUYENTUANGIAO": "Huyen Tuan Giao",
+      "HUYENMUONGCHA": "Huyen Muong Cha",
+      "HUYENTUACHUA": "Huyen Tua Chua",
+      "HUYENDIENBIENDONG": "Huyen Dien Bien Dong",
+      "HUYENMUONGNHE": "Huyen Muong Nhe",
+      "HUYENMUONGANG": "Huyen Muong Ang",
+      "DIENBIENKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "DAKNONG": {
+    "name": "Tinh Dak Nong",
+    "cities": {
+      "THIXAGIANGHIA": "Thi xa Gia Nghia",
+      "HUYENDAKRLAP": "Huyen Dak RLap",
+      "HUYENDAKMIL": "Huyen Dak Mil",
+      "HUYENCUJUT": "Huyen Cu Jut",
+      "HUYENDAKSONG": "Huyen Dak Song",
+      "HUYENKRONGNO": "Huyen Krong No",
+      "HUYENDAKGLONG": "Huyen Dak GLong",
+      "HUYENTUYDUC": "Huyen Tuy Duc",
+      "DAKNONGKHAC": "Quan\/Huyen khac"
+    }
+  },
+  "HAUGIANG": {
+    "name": "Tinh Hau Giang",
+    "cities": {
+      "THANHPHOVITHANH": "Thanh pho Vi Thanh",
+      "HUYENVITHUY": "Huyen Vi Thuy",
+      "HUYENLONGMY": "Huyen Long My",
+      "HUYENPHUNGHIEP": "Huyen Phung Hiep",
+      "HUYENCHAUTHANH": "Huyen Chau Thanh",
+      "HUYENCHAUTHANHA": "Huyen Chau Thanh A",
+      "THIXANGABAY": "Thi xa Nga Bay",
+      "HAUGIANGKHAC": "Quan\/Huyen khac"
+    }
+  }
+}

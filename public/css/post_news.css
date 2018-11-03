@@ -1,0 +1,375 @@
+        /* -- ============== New CSS ================== -- */
+        /* <!-- switch --> */
+
+            .switch {
+              position: relative;
+              display: inline-block;
+              width: 40px;
+              height: 24px;
+            }
+
+            .switch input {display:none;}
+
+            .slider {
+              position: absolute;
+              cursor: pointer;
+              top: 0;
+              left: 0;
+              right: 0;
+              bottom: 0;
+              background-color: #ccc;
+              -webkit-transition: .4s;
+              transition: .4s;
+            }
+
+            .slider:before {
+              position: absolute;
+              content: "";
+              height: 16px;
+              width: 16px;
+              left: 4px;
+              bottom: 4px;
+              background-color: white;
+              -webkit-transition: .4s;
+              transition: .4s;
+            }
+
+            input:checked + .slider {
+              background-color: #2196F3;
+            }
+
+            input:focus + .slider {
+              box-shadow: 0 0 1px #2196F3;
+            }
+
+            input:checked + .slider:before {
+              -webkit-transform: translateX(22px);
+              -ms-transform: translateX(22px);
+              transform: translateX(16px);
+            }
+
+            /* Rounded sliders */
+            .slider.round {
+              border-radius: 34px;
+            }
+
+            .slider.round:before {
+              border-radius: 50%;
+            }
+
+            /*add*/
+
+.hr-line-dashed {
+    border-top: 1px dashed #e5e6e7;
+    color: #fff;
+    background-color: #fff;
+    height: 1px;
+    margin: 20px 0;
+}
+
+
+/*Check box*/
+input[type="checkbox"] + .label-text:before{
+	content: "\f096";
+	font-family: "FontAwesome";
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing:antialiased;
+	width: 1em;
+	display: inline-block;
+	margin-right: 5px;
+}
+
+input[type="checkbox"]:checked + .label-text:before{
+	content: "\f14a";
+	color: #2980b9;
+	animation: effect 250ms ease-in;
+}
+
+input[type="checkbox"]:disabled + .label-text{
+	color: #aaa;
+}
+
+input[type="checkbox"]:disabled + .label-text:before{
+	content: "\f0c8";
+	color: #ccc;
+}
+
+/*Radio box*/
+
+input[type="radio"] + .label-text:before{
+	content: "\f10c";
+	font-family: "FontAwesome";
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing:antialiased;
+	width: 1em;
+	display: inline-block;
+	margin-right: 5px;
+}
+
+input[type="radio"]:checked + .label-text:before{
+	content: "\f192";
+	color: #8e44ad;
+	animation: effect 250ms ease-in;
+}
+
+input[type="radio"]:disabled + .label-text{
+	color: #aaa;
+}
+
+input[type="radio"]:disabled + .label-text:before{
+	content: "\f111";
+	color: #ccc;
+}
+
+/*Radio Toggle*/
+
+.toggle input[type="radio"] + .label-text:before{
+	content: "\f204";
+	font-family: "FontAwesome";
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing:antialiased;
+	width: 1em;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.toggle input[type="radio"]:checked + .label-text:before{
+	content: "\f205";
+	color: #16a085;
+	animation: effect 250ms ease-in;
+}
+
+.toggle input[type="radio"]:disabled + .label-text{
+	color: #aaa;
+}
+
+.toggle input[type="radio"]:disabled + .label-text:before{
+	content: "\f204";
+	color: #ccc;
+}
+
+
+@keyframes effect{
+	0%{transform: scale(0);}
+	25%{transform: scale(1.3);}
+	75%{transform: scale(1.4);}
+	100%{transform: scale(1);}
+}
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500");
+
+.tag-editor .tag-editor-tags ul li {
+  list-style: none;
+    display: inline-block;
+    background: #2196F3;
+    margin-right: 20px;
+    color: aliceblue;
+    
+  margin-bottom:10px;
+  padding:3px 6px;
+  border-radius:3px;
+  font-family: "Montserrat", sans-serif;
+  font-size:13px;
+  border:1px solid #dedede;
+  transition:linear 0.3s;
+}
+
+.tag-editor .tag-editor-tags ul li span.removeTag {
+    font-size: 15px;
+    margin-left: 10px;
+    cursor: pointer;
+  font-weight:700;
+  color:#444;
+} 
+.tag-editor .tag-editor-tags ul li.inputlist{
+  background:none;
+      display: flex;
+  padding:0 0 0 0;
+  margin:0 0 15px 0;
+  border:none;
+}
+.tag-editor .tag-editor-tags input[type="text"] {
+  border: none;
+  outline: none;
+  font-size: 16px;
+  color: #555;
+  font-family: "Montserrat", sans-serif;
+  width: 100%;
+}
+
+.tag-editor .tag-editor-tags input[type="text"]::-webkit-input-placeholder {
+  font-size: 12px;
+}
+.tag-editor .tag-editor-tags input[type="text"]::-moz-placeholder {
+  font-size: 12px;
+}
+.tag-editor .tag-editor-tags input[type="text"]:-ms-input-placeholder {
+  font-size: 12px;
+}
+.tag-editor .tag-editor-tags input[type="text"]:-moz-placeholder {
+  font-size: 12px;
+}
+
+.animated{
+      -webkit-animation-duration: 0.7s;
+    animation-duration: 0.7s;
+}
+
+
+
+.tag-editor span.dots:before {
+    position: absolute;
+    right: 20px;
+    top: 0;
+    content: '';
+
+    background-color: #a21314;
+    border-radius: 5px;
+    font-size: 0;
+    padding: 5px;
+}
+
+/*--------------Salary--------------*/
+
+/* The container */
+.container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default radio button */
+
+/* Create a custom radio button */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+    border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.container input:checked ~ .checkmark {
+    background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.container input:checked ~ .checkmark:after {
+    display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.container .checkmark:after {
+ 	top: 9px;
+	left: 9px;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: white;
+}
+
+
+/*================ Add Benefits ===============*/
+
+input[type="text"]:focus {
+    border-color: rgba(82, 168, 236, 0.8);
+    outline: 0 none;
+    -webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(82,168,236,.6);
+    -moz-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(82,168,236,.6);
+    box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(82,168,236,.6);
+}
+a {
+    text-decoration: none;
+}
+.btn {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 0;
+    padding: 4px 12px;
+    text-align: center;
+    vertical-align: middle;
+}
+.btn-info {
+    background-color: #49AFCD;
+    background-image: linear-gradient(to bottom, #5BC0DE, #2F96B4);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    color: #FFFFFF;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+.btn:hover{
+    color:#333;
+    text-decoration:none;
+    background-position:0 -15px;
+    -webkit-transition:background-position .1s linear;
+    -moz-transition:background-position .1s linear;
+    -o-transition:background-position .1s linear;
+    transition:background-position .1s linear;
+}
+.btn-info:hover{
+    color:#fff;
+    background-color:#2f96b4;
+}
+
+        /* <!-- end switch --> */
+			
+/* <!-- ============ Category =============== --> */
+
+    .dropdown dd ul {
+    border: 0;
+    display: none;
+    left: 0px;
+    top: 2px;
+    list-style: none;
+    height: 200px;
+    overflow: scroll;
+    
+    }  
